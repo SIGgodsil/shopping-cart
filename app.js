@@ -17,37 +17,37 @@ let products = [
     {
         id: 1,
         name: 'Design T-Shirt',
-        image: 't-shirt.PNG',
+        image: 'image/t-shirt.PNG',
         price: 120000
     },
     {
         id: 2,
         name: 'Black Man Jacket',
-        image: 'jacket.PNG',
+        image: 'image/jacket.PNG',
         price: 500000
     },
     {
         id: 3,
         name: 'Grey Men Jacket',
-        image: 'jacket 2.PNG',
+        image: 'image/jacket 2.PNG',
         price: 500000
     },
     {
         id: 4,
         name: 'Nylon Jacket',
-        image: 'jacket 3.PNG',
+        image: 'image/jacket 3.PNG',
         price: 300000
     },
     {
         id: 5,
         name: 'Fur Women Jacket', 
-        image: 'jacket 6.PNG',
+        image: 'image/jacket 6.PNG',
         price: 450000
     },
     {
         id: 6,
         name: 'Sport Jacket',
-        image: 'jacket 5.PNG',
+        image: 'image/jacket 5.PNG',
         price: 400000
     }
 ];
